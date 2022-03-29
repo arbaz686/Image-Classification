@@ -9,4 +9,4 @@ kingarbaz/kingarbaz is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://giphy.com/clips/t5hXhd8P8zTe6s0yhW.gif)
+![](http://i.imgur.com/60bts.gif)
