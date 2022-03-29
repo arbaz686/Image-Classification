@@ -1,4 +1,7 @@
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" margin-left=auto margin-right=auto width="50%" height="300"/>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="50%" height="300">
+</p>
 <p>- 👋 Hi, I’m @kingarbaz<br>
 - 👀 I’m interested in building websites, coding, and machine learning.<br>
 - 🌱 I’m currently learning ReactJS and NodeJS.<br>
