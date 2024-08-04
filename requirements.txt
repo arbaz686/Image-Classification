@@ -1,0 +1,8 @@
+# TensorFlow is the main library for building and training the neural network
+tensorflow>=2.0.0
+
+# NumPy is used for numerical operations and array manipulations
+numpy>=1.18.0
+
+# Matplotlib is used for data visualization
+matplotlib>=3.1.0
