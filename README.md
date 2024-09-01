@@ -1,4 +1,4 @@
-# Fashion MNIST Classifier
+# MNIST Classifier
 
 ## Introduction
 
